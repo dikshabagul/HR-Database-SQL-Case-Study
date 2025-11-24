@@ -11,7 +11,7 @@ Demonstrates strong database design and query-building skills for data-driven HR
 ---
 
 ## 🧰 Tools & Technologies
-- MySQL / SQL Server
+- MySQL Workbench
 - Question Sheet of business Problem
   
 
